@@ -69,4 +69,57 @@
 
 
 
+// const array = [
+//     {
+//       id: 7,
+//       description:
+//         "Sweet and savory sauces relishes spreads and seasonings",
+//       name: "Condiments",
+//     },
+//     {
+//       id: 4,
+//       description: "Soft drinks coffees teas beers and ales",
+//       name: "Beverages",
+//     },
+//     {
+//       id: 3,
+//       description: "Desserts candies and sweet breads",
+//       name: "Confections",
+//     },
+//     {
+//       id: 6,
+//       description: "Cheeses",
+//       name: "Dairy Products",
+//     },
+//     {
+//       id: 5,
+//       description: "Breads crackers pasta and cereal",
+//       name: "Grains/Cereals",
+//     },
+//     {
+//       id: 1,
+//       description: "Prepared meats",
+//       name: "Meat/Poultry",
+//     },
+//     {
+//       id: 2,
+//       description: "Dried fruit and bean curd",
+//       name: "Produce",
+//     },
+//     {
+//       id: 8,
+//       description: "Seaweed and fish",
+//       name: "Seafood",
+//     },
+//   ];
+  
+//   console.log(array.sort((a,b)=>(a.id>b.id)?1:((b.id>a.id)?-1:0)));
 
+
+//   array.sort((a,b) => (a.description > b.description) ? 1 : ((b.description > a.description) ? -1 : 0))
+//   console.table("",array);
+//   console.log("desc",array[0].description);
+//   console.log("desc",array);
+
+//   array.sort((a,b)=>(a.name>b.name)?1:((b.name>a.name)?-1:0))
+//   console.log(array);
